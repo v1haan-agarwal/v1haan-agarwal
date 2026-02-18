@@ -1,15 +1,16 @@
 # Hi, I’m Vihaan
 
 ## About me
+
+I'm a hands on engineer who studied mechanical engineering at the University of Illinois at Urbana-Champaign
+
+
+## Skills
+
 - **Programming Languages:** Python, JavaScript, Java
 - **Web Technologies:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Jenkins, AWS
-
-## Skills
-
-- **Project 1:** Description of a noteworthy project you have worked on.
-- **Project 2:** Description of another project that highlights your skills.
 
 ## Projects
 
