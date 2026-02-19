@@ -2,15 +2,7 @@
 
 ## About me
 
-I'm a hands on engineer who studied mechanical engineering at the University of Illinois at Urbana-Champaign
-
-
-## Skills
-
-- **Programming Languages:** Python, JavaScript, Java
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git, Docker, Jenkins, AWS
+I'm a hands on engineer who studied mechanical engineering at the University of Illinois at Urbana-Champaign. I have made this Github to showcase some of the projects I undertook during my time at college.
 
 ## Projects
 
@@ -21,7 +13,5 @@ I'm a hands on engineer who studied mechanical engineering at the University of 
 You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/v1haan-agarwal)
 - [Email](mailto:v1haan-agarwal@example.com)
-
-## Conclusion
 
 Thank you for visiting my GitHub profile! I look forward to connecting with like-minded individuals and contributing to meaningful projects.
