@@ -14,4 +14,4 @@ You can reach me via:
 - [LinkedIn](https://www.linkedin.com/in/v1haan-agarwal)
 - [Email](mailto:vihaan30agarwal@gmail.com)
 
-Thank you for visiting my GitHub profile! I look forward to connecting with like-minded individuals and contributing to meaningful projects.
+Thank you for visiting my GitHub profile. I look forward to connecting with you!
